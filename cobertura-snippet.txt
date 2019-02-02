@@ -1,3 +1,4 @@
+<!-- http://www.mojohaus.org/cobertura-maven-plugin/ -->
 <build>
 	<plugins>
 		<plugin>
